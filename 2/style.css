@@ -1,0 +1,26 @@
+body{
+    
+background-color: beige;
+font-size: 20px;
+}
+
+button{
+    padding:10px 20px;
+    border-radius: 10px;
+    background-color: darkblue;
+    color:white;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+form{
+    text-align: center;
+}
+ul,li{
+    color: darkblue;
+}
+ul{
+    margin: 50px;
+    display: block;
+}
